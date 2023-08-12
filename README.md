@@ -14,7 +14,7 @@
 
 * **React_template** (2023.04 ~ ing)   
   개인적인 Front 흥미와 API개발 시 Front에 Data를 어떻게 제공하면 더 좋을지 연구하기 위한 프로젝트입니다.   
-  또한, 추후 해당 프로젝트를 Template로 사용하기 위한 Base 프로젝트입니다.
+  또한, 추후 프로젝트를 Template로 사용하기 위한 Base 프로젝트입니다.
 
 * **Django_template** (2022.11 ~ ing)   
   해당 Framework에서 사용할 수 있는 각종 기능(Auth, Middleware 등)을 공부하고,   
@@ -42,6 +42,11 @@
     * **정산 자동화 작업**은 정녕 완성될 수 없는 기능인가,,,
 * 2023.01
     * Refactoring을 통한 API 속도 개선 작업
+
+<details>
+    <summary>2022</summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 * 2022.12
     * Refactoring을 통한 API 속도 개선 작업
 * 2022.11
@@ -52,6 +57,9 @@
     * AWS 계정 이동 및 프로젝트 배포 작업
 * 2022.08
     * 8월 8일, 첫 회사 입사
+
+</details>
+
 <!--
 **strsu/strsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
