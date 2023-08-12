@@ -13,10 +13,12 @@
 ## **Project**
 
 * **React_template** (2023.04 ~ ing)   
-  개인적인 Front 흥미와 API개발 시 Front에 Data를 어떻게 제공하면 더 좋을지 연구하기 위한 프로젝트입니다. 또한, 추후 해당 프로젝트를 Template로 사용하기 위한 Base 프로젝트입니다.
+  개인적인 Front 흥미와 API개발 시 Front에 Data를 어떻게 제공하면 더 좋을지 연구하기 위한 프로젝트입니다.   
+  또한, 추후 해당 프로젝트를 Template로 사용하기 위한 Base 프로젝트입니다.
 
 * **Django_template** (2022.11 ~ ing)   
-  해당 Framework에서 사용할 수 있는 각종 기능(Auth, Middleware 등)을 공부하고, 새로운 장고 서비스를 시작할 때 템플릿으로 사용하기 위한 프로젝트입니다.
+  해당 Framework에서 사용할 수 있는 각종 기능(Auth, Middleware 등)을 공부하고,   
+  새로운 장고 서비스를 시작할 때 템플릿으로 사용하기 위한 프로젝트입니다.
 
 
 ***
