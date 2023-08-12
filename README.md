@@ -10,7 +10,7 @@
     * 기확자 1명, 디자이너 2명, IOS 개발자 2명, 백엔드 2명으로 구성된 팀이며, 저는 백엔드 개발에 참여하였습니다.
 
 ***
-## **Project**
+## **Repositories**
 
 * [**React_template**](https://github.com/strsu/React_Template) (2023.04 ~ ing)   
   개인적인 Front 흥미와 API개발 시 Front에 Data를 어떻게 제공하면 더 좋을지 연구하기 위한 프로젝트입니다.   
