@@ -22,6 +22,7 @@
 
 
 ***
+<!--
 ## **Monthly Record of My Development**
 
 * 2023.08
@@ -46,7 +47,7 @@
 <details>
     <summary>2022</summary>
 
-<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+<!-- summary 아래 한칸 공백 두고 내용 삽입 --
 * 2022.12
     * Refactoring을 통한 API 속도 개선 작업
 * 2022.11
@@ -60,17 +61,4 @@
 
 </details>
 
-<!--
-**strsu/strsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
